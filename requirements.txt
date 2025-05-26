@@ -1,0 +1,5 @@
+transformers==4.36.2
+datasets>=2.18.0
+Pillow>=9.5.0
+scikit-learn
+torch==2.1.2

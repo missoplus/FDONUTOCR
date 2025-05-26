@@ -1,0 +1,34 @@
+[
+  {
+    "image": "78861725.jpg",
+    "text_sequence": "<s_rvlcdip><s_name>RANDMETS</s_name><s_vorname>ARNOLD</s_vorname><s_gebdat>1899-10-13</s_gebdat></s_rvlcdip>"
+  },
+  {
+    "image": "78861712.jpg",
+    "text_sequence": "<s_rvlcdip><s_name>AASMÄE</s_name><s_vorname>JUHAN</s_vorname><s_gebdat>1924-10-02</s_gebdat></s_rvlcdip>"
+  },
+  {
+    "image": "78861709.jpg",
+    "text_sequence": "<s_rvlcdip><s_name>AASMAA</s_name><s_vorname>ILMAR</s_vorname><s_gebdat>1923-04-12</s_gebdat></s_rvlcdip>"
+  },
+  {
+    "image": "78861754.jpg",
+    "text_sequence": "<s_rvlcdip><s_name>ABADJIEFF</s_name><s_vorname>HRISTO</s_vorname><s_gebdat>1944-09-03</s_gebdat></s_rvlcdip>"
+  },
+  {
+    "image": "78861612.jpg",
+    "text_sequence": "<s_rvlcdip><s_name>AARE</s_name><s_vorname>KALJA</s_vorname><s_gebdat>1923-08-30</s_gebdat></s_rvlcdip>"
+  },
+  {
+    "image": "78861685.jpg",
+    "text_sequence": "<s_rvlcdip><s_name>AASAV</s_name><s_vorname>GRETA</s_vorname><s_gebdat>1910-08-15</s_gebdat></s_rvlcdip>"
+  },
+  {
+    "image": "78861846.jpg",
+    "text_sequence": "<s_rvlcdip><s_name>ABAVIETIS</s_name><s_vorname>ERVINS</s_vorname><s_gebdat>1921-12-05</s_gebdat></s_rvlcdip>"
+  },
+  {
+    "image": "78861772.jpg",
+    "text_sequence": "<s_rvlcdip><s_name>ABAFFY</s_name><s_vorname>CHARLES</s_vorname><s_gebdat>1912-04-16</s_gebdat></s_rvlcdip>"
+  }
+]
